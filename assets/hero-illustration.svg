@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景装饰 -->
+    <rect width="600" height="400" fill="#E6F0FF"/>
+    <circle cx="500" cy="100" r="50" fill="#0066CC" opacity="0.1"/>
+    <circle cx="100" cy="300" r="30" fill="#0066CC" opacity="0.1"/>
+    
+    <!-- 主要设备图形 -->
+    <rect x="150" y="100" width="300" height="200" rx="10" fill="#FFFFFF" stroke="#0066CC" stroke-width="2"/>
+    <rect x="170" y="120" width="260" height="140" rx="5" fill="#E6F0FF"/>
+    
+    <!-- 图表元素 -->
+    <path d="M190 220 L230 180 L270 200 L310 160 L350 190 L390 150" stroke="#0066CC" stroke-width="2" fill="none"/>
+    <circle cx="230" cy="180" r="4" fill="#0066CC"/>
+    <circle cx="270" cy="200" r="4" fill="#0066CC"/>
+    <circle cx="310" cy="160" r="4" fill="#0066CC"/>
+    <circle cx="350" cy="190" r="4" fill="#0066CC"/>
+    
+    <!-- 装饰性图标 -->
+    <rect x="170" y="280" width="40" height="4" rx="2" fill="#0066CC"/>
+    <rect x="220" y="280" width="40" height="4" rx="2" fill="#0066CC" opacity="0.5"/>
+    <rect x="270" y="280" width="40" height="4" rx="2" fill="#0066CC" opacity="0.3"/>
+</svg> 

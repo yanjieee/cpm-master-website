@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 齿轮外圈 -->
+    <circle cx="32" cy="32" r="24" stroke="#0066CC" stroke-width="2" fill="#E6F0FF"/>
+    
+    <!-- 齿轮齿 -->
+    <rect x="30" y="4" width="4" height="8" fill="#0066CC"/>
+    <rect x="30" y="52" width="4" height="8" fill="#0066CC"/>
+    <rect x="52" y="30" width="8" height="4" fill="#0066CC"/>
+    <rect x="4" y="30" width="8" height="4" fill="#0066CC"/>
+    
+    <!-- 斜齿 -->
+    <rect x="45" y="12" width="8" height="4" transform="rotate(45 45 12)" fill="#0066CC"/>
+    <rect x="12" y="45" width="8" height="4" transform="rotate(45 12 45)" fill="#0066CC"/>
+    <rect x="45" y="45" width="8" height="4" transform="rotate(-45 45 45)" fill="#0066CC"/>
+    <rect x="12" y="12" width="8" height="4" transform="rotate(-45 12 12)" fill="#0066CC"/>
+    
+    <!-- 中心圆 -->
+    <circle cx="32" cy="32" r="12" fill="#0066CC" opacity="0.2"/>
+    <circle cx="32" cy="32" r="6" fill="#0066CC"/>
+</svg> 
